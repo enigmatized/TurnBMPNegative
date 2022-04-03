@@ -8,7 +8,7 @@
 3. [Documentation](#documentation)
 4. [Considerations](#considerations)
 5. [Third Example](#third-example)
-6. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+6. [Demonstration](#Demonstration)
 
 
 
@@ -53,15 +53,19 @@ Download the ZIP file then enter the api folder. From there you can start at ind
 ## Considerations
 #### Important Notes
 This program can only work with specified BMP file formats for the hand crafted BMP converter to work. Specifically those specifications are
-1. The file has proper BMP header file tag, i.e. first two bytes represent __ ___
+1. The file has proper BMP header file tag, i.e. first two bytes represent 66 and 77, in that order.
 2. Uncompressed BMP
 3. That it is 24 bit.
 4. There is also assumption this is a Windows formatted BMP(other version are pretty outdated, such as OS/2)
 
+Now if those assumptions are not met, an error will be thrown, but the program will continue.
+The program continues with a non-hand crafted BMP input reader, i.e. Java’s BufferImage class for processing images. From there it does the appropriate action for either greyscale or negative photo formation.
 
 
 
 ## Example2
 ## Third Example
-## [Fourth Example](http://www.fourthexample.com)
+## [Demonstration]
+I made this video showing the working product. Check it out here: 
+Sorry, no video editing. One fast and dirty take.
 
