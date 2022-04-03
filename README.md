@@ -6,8 +6,9 @@
 1. [Introduction](#introduction)
 2. [Build Instructions](#build-to-run-instructions)
 3. [Documentation](#documentation)
-4. [Third Example](#third-example)
-5. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Considerations](#considerations)
+5. [Third Example](#third-example)
+6. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
 
@@ -48,6 +49,14 @@ ScalaDocs was used to document functions and classes.
 To easily view this go to: https://github.com/enigmatized/TurnBMPNegative/tree/main/BMPTransformerScalaDocs
 
 Download the ZIP file then enter the api folder. From there you can start at index.html.
+
+## Considerations
+#### Important Notes
+This program can only work with specified BMP file formats for the hand crafted BMP converter to work. Specifically those specifications are
+1. The file has proper BMP header file tag, i.e. first two bytes represent __ ___
+2. Uncompressed BMP
+3. That it is 24 bit.
+4. There is also assumption this is a Windows formatted BMP(other version are pretty outdated, such as OS/2)
 
 
 
