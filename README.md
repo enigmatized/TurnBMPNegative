@@ -7,8 +7,9 @@
 2. [Build Instructions](#build-to-run-instructions)
 3. [Documentation](#documentation)
 4. [Considerations](#considerations)
-5. [Third Example](#third-example)
-6. [Demonstration](#Demonstration)
+5. [BMP resources](#bmp-resources)
+6. [Third Example](#third-example)
+7. [Demonstration](#Demonstration)
 
 
 
@@ -64,6 +65,7 @@ The program continues with a non-hand crafted BMP input reader, i.e. Java’s Bu
 
 
 ## Example2
+## BMP resources
 ## Third Example
 ## [Demonstration]
 I made this video showing the working product. Check it out here: 
