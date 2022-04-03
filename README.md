@@ -36,3 +36,7 @@ A prompt in the command line will follow created by the program.
 
 
 ## Documentation
+ScalaDocs was used to document functions and classes.
+To easily view this go to: https://github.com/enigmatized/TurnBMPNegative/tree/main/BMPTransformerScalaDocs
+
+Download the ZIP file then enter the api folder. From there you can start at index.html.
