@@ -8,7 +8,6 @@
 3. [Documentation](#documentation)
 4. [Considerations](#considerations)
 5. [BMP resources](#bmp-resources)
-6. [Third Example](#third-example)
 7. [Demonstration](#Demonstration)
 
 
@@ -68,12 +67,13 @@ I highly suggest making your own BMP with a hex editor to really understand what
 I made my first just recently.
 
 
-![alt text](https://github.com/enigmatized/TurnBMPNegative/blob/master/screenShotBMP.png?raw=true)
+![alt text](https://github.com/enigmatized/TurnBMPNegative/blob/main/screenShotBMP.png?raw=true)
 
+### Resources
+1. http://paulbourke.net/dataformats/bmp/
+2. https://en.wikipedia.org/wiki/BMP_file_format
 
-
-## Third Example
-## [Demonstration]
+## Demonstration
 I made this video showing the working product. Check it out here: 
 Sorry, no video editing. One fast and dirty take.
 
