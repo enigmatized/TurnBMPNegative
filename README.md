@@ -62,10 +62,15 @@ This program can only work with specified BMP file formats for the hand crafted 
 Now if those assumptions are not met, an error will be thrown, but the program will continue.
 The program continues with a non-hand crafted BMP input reader, i.e. Java’s BufferImage class for processing images. From there it does the appropriate action for either greyscale or negative photo formation.
 
-
-
-## Example2
 ## BMP resources
+Here are some resources to help better understand BMP file formats.
+I highly suggest making your own BMP with a hex editor to really understand what is doing on.
+I made my first just recently.
+
+![alt text](http://url/to/img.png)
+
+
+
 ## Third Example
 ## [Demonstration]
 I made this video showing the working product. Check it out here: 
