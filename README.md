@@ -67,7 +67,8 @@ Here are some resources to help better understand BMP file formats.
 I highly suggest making your own BMP with a hex editor to really understand what is doing on.
 I made my first just recently.
 
-![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/enigmatized/TurnBMPNegative/blob/master/screenShotBMP.png?raw=true)
 
 
 
