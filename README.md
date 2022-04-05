@@ -24,7 +24,7 @@ Multiple build options to run, but listed are the two easiest.
 2.  easiest is from command line by compiling main.scala then running, but this will require user to check requirements(JAVA 11+ and Scala 2.13+)
 
 ### Option 1. Most easily from replit.com
- You can simply go to https://replit.com/@mrgarrettp/Main . Then hit play or the green arrow. No replit account needed. It should be noted though this program was built with Java 11, but replit uses a Java version less 11 for its Scala IDE.  Therefore some of the code needed to be changed in replit (IE replace JAVA 11 compatible functions with older functions).
+ You can simply go to https://replit.com/@mrgarrettp/Main . Then hit play or the green arrow. No replit account needed. It should be noted though this program was built with Java 11, but replit uses a Java version less 11 for its Scala IDE.  Therefore some of the code needed to be changed in replit (IE replace JAVA 11 compatible functions with older functions). Note the show photo function will not on replit and there will be many warnings during complie time.
 
 
 
